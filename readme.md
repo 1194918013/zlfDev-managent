@@ -2,4 +2,5 @@
 Creating a new branch is quick.
 Creating a new branch is master.
 creating a new branch 'feature1'.
-Creating a new branch to fixed conflicts. 
+Creating a new branch to fixed conflicts.
+creating a new branch 'yong yu 测试分治策略管理'
